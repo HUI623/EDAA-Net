@@ -1,5 +1,8 @@
 # EDAA-Net
-Official PyTorch implementation of EDAA-Net.
+Official PyTorch implementation of the paper ***Edge and Density-Aware Attention Network for Automatic Liver Segmentation***.
+# Architecture
+
+![EDAA-Net](https://github.com/HUI623/EDAA-Net/blob/main/Architecture.png)
 
 ## 1.Requirements
 ```bash
@@ -11,8 +14,8 @@ torchvision 0.11.2
 ```
 ## 2. Installation
 ```bash
-git clone https://github.com/HUI623/FRAttU-Net  
-cd WH-FRAttU-Net-liver-segmentation  
+git clone https://github.com/HUI623/EDAA-Net  
+cd EDAA-Net  
 sh install.sh
 ```
 ## 3. Data Preprocessing
