@@ -2,7 +2,7 @@
 Official PyTorch implementation of the paper ***Edge and Density-Aware Attention Network for Automatic Liver Segmentation***.
 # Architecture
 
-![EDAA-Net](https://github.com/HUI623/EDAA-Net/blob/main/Architecture.png#center)
+![EDAA-Net](https://github.com/HUI623/EDAA-Net/blob/main/Architecture.png)
 
 ## 1.Requirements
 ```bash
@@ -45,4 +45,4 @@ python test_png_png.py
 ## Citation
 
 ## Acknowledgements
-Thanks to  [SAR-U-Net](https://github.com/lvpeiqing/SAR-U-Net-liver-segmentation), [UGS-Net](https://github.com/yanghan-yh/UGS-Net), and [Gabor CNN](https://github.com/jxgu1016/Gabor_CNN_PyTorch) for their outstanding work.
+Thanks to [SAR-U-Net](https://github.com/lvpeiqing/SAR-U-Net-liver-segmentation), [UGS-Net](https://github.com/yanghan-yh/UGS-Net), and [Gabor CNN](https://github.com/jxgu1016/Gabor_CNN_PyTorch) for their outstanding work.
