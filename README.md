@@ -2,7 +2,7 @@
 Official PyTorch implementation of the paper ***Edge and Density-Aware Attention Network for Automatic Liver Segmentation***.
 # Architecture
 
-![EDAA-Net](https://github.com/HUI623/EDAA-Net/blob/main/Architecture.png)
+![EDAA-Net](https://github.com/HUI623/EDAA-Net/blob/main/Architecture.png#center)
 
 ## 1.Requirements
 ```bash
